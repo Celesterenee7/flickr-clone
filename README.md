@@ -21,7 +21,7 @@ The concept for this project is to make an app that lets users upload their phot
 ## Setup/Installation Requirements
 * Install Ruby 2.5.7 on your machine
 * Install SQL 12.1 with Postgres on your machine
-* Clone the git repository at https://github.com/Celesterenee7/food-products-IP
+* Clone the git repository at https://github.com/Celesterenee7/flickr-clone
 * Navigate to folder and run `bundle install` from terminal
 * In the terminal navigate to the folder and run `rake db:create` to create the database
 * Next run `rake db:migrate` to get the tables created
